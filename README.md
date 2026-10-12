@@ -6,7 +6,7 @@
 
 Legal and tax research for India, grounded in real statutory text. Ask a question and get an answer built from the Acts themselves, with the retrieved sections listed right next to it.
 
-![The Suit Co. homepage](docs/home.png)
+
 
 </div>
 
